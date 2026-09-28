@@ -1,6 +1,6 @@
 # Marek Althüser – Portfolio
 
-**Live ansehen: [marek-althueser.github.io](https://marek-althueser.github.io)**
+**Live ansehen: [smvvjrdx5z-wq.github.io](https://smvvjrdx5z-wq.github.io)**
 
 Ich bin 17, Schüler in Rostock und baue Web-Apps, Landingpages und KI-Automatisierungen, vom ersten Entwurf bis zum Deployment. Dieses Repository enthält meine Portfolio-Seite.
 
@@ -16,7 +16,7 @@ Lokaler Nachrichten-Agent für Windows. Er bewertet Marktnachrichten mit einem l
 Landingpage für einen Halter exotischer Kleintiere, gebaut mit Next.js, TypeScript und Tailwind CSS v4. Kein Webshop: Jedes Angebot zeigt eine Preisklasse und öffnet eine vorformulierte E-Mail an den Verkäufer.
 Live: [animanymals.com](https://animanymals.com)
 
-Screenshots zu allen Projekten gibt es auf der [Portfolio-Seite](https://marek-althueser.github.io). Der Quellcode der Projekte ist privat. Auf Anfrage gebe ich gern Lesezugriff auf einzelne Repositories.
+Screenshots zu allen Projekten gibt es auf der [Portfolio-Seite](https://smvvjrdx5z-wq.github.io). Der Quellcode der Projekte ist privat. Auf Anfrage gebe ich gern Lesezugriff auf einzelne Repositories.
 
 ## Womit ich arbeite
 
